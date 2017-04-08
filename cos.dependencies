@@ -3,7 +3,7 @@
     "remote":     "github",
     "repository": "j5-Dev-Stable/android_device_samsung_j5-common",
     "target_path": "device/samsung/j5-common",
-    "branch":     "cm-14.1"
+    "branch":     "cos"
   },
   {
     "remote": "github",
